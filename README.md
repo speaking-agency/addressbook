@@ -1,7 +1,7 @@
 # Carnet d'adresses
 ## Test JavaScript - VueJS
 
-L'objectif de cet exercice est de créer un carnet d'adresses composé d'une liste de noms et prénoms et d'une fiche détaillée, sur le modèle des carnets d'adresse de nos smartphones. Il faut utiliser VueJS pour réaliser cet exercice.
+L'objectif de cet exercice est de créer un carnet d'adresses composé d'une liste de noms et prénoms et d'une fiche détaillée, sur le modèle des carnets d'adresses de nos smartphones. Il faut utiliser VueJS pour réaliser cet exercice.
 
 Les données sont fournies par l'API suivante : https://api.speaking-beta.com/api/v2/test/users
 
